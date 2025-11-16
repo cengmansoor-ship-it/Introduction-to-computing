@@ -63,7 +63,7 @@ Algorithms & problem solving
 
 Programming basics
 
-Variables, conditions, loops, functions, and data structures
+Variables, conditions, loops, functions, and some data structures
 
 OOP fundamentals (in languages that support it)
 
